@@ -1,5 +1,5 @@
 ### Hi there, I'm Lost_Deviation
-I'm a student from School of Software Engineering, [South China University of Technology](https://www.scut.edu.cn), also an intern from [Weride.ai](https://weride.ai).
+I'm a student from School of Software Engineering, [South China University of Technology](https://www.scut.edu.cn), also an intern from [WeRide](https://weride.ai).
 You can found me in [github](https://github.com/XDeviation) or [codeforces](https://codeforces.com/profile/Lost_Deviation)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XDeviation&show_icons=true&theme=tokyonight)](https://github.com/XDeviation/github-readme-stats)
