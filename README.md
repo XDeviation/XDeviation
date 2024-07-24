@@ -1,5 +1,5 @@
 ### Hi there, I'm Lost_Deviation
-I'm a student from School of Software Engineering, [South China University of Technology](https://www.scut.edu.cn), also an employee from [WeRide](https://weride.ai).
+I'm a student from School of Software Engineering, [South China University of Technology](https://www.scut.edu.cn), also former employee at [WeRide](https://weride.ai), current employee at [Transwarp](https://www.transwarp.cn/en).
 You can found me in [github](https://github.com/XDeviation), mail: xth9681@gmail.com, maybe you will be interested in [my blog](http://blog.lost-deviation.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XDeviation&show_icons=true&theme=tokyonight)](https://github.com/XDeviation/github-readme-stats)
